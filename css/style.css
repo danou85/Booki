@@ -444,8 +444,18 @@ footer a {
   h1{
     font-size: 22px;
     font-weight: 700;
+    margin-left: 10px;
   }
 
+  p{
+    margin-left: 10px;
+  }
+  .bouton-recherche{
+    width: 65px;
+  }
+  .info{
+    margin-left: 10px;
+  }
   .icone-boutton-recherche {
     display: block;
   }
