@@ -214,6 +214,8 @@ input::placeholder {
 .afficher {
   font-weight: bold;
   font-size: 18px;
+  justify-content: center;
+  display: flex;
 }
 
 body {
